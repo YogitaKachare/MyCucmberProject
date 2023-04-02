@@ -26,12 +26,13 @@ public class Logoutt {
 			
 		driver.findElement(By.xpath("//input[@id='user-name']")).sendKeys("standard_user");
 		driver.findElement(By.xpath("//input[@id='password']")).sendKeys("secret_sauce");
+		driver.findElement(By.xpath("//input[@id='login-button']")).click();
 	}
 		
 	
 	@When("click on login button")
 	public void click_on_login_button() {
-		driver.findElement(By.xpath("//input[@id='login-button']")).click();
+		
 	
 	}
 

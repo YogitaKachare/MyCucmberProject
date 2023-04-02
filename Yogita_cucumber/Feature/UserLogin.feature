@@ -9,30 +9,26 @@ Given      open the landing page
     
     When   username as "standard_user" in usernamefield
     And    password as "secrete_sauce" in passwordfield
-    And    click on login button
+    And    click on login button LoginU
     Then   homepage should appear
- 
   
    Scenario:  Invalid User Valid password
     
     When   username as "standard" in usernamefield
     And    password as "secrete_sauce" in passwordfield
-    And    click on login button
+    And    click on login button LoginU
     Then   User should Stay on login Page
  
    Scenario: Invalid User Invalid password
     
     When   username as "standard" in usernamefield
     And    password as "secrete" in passwordfield
-    And    click on login button
+    And    click on login button LoginU
     Then   User should Stay on login Page
  
    Scenario: Valid User Invalid password
     
     When   username as "standard_user" in usernamefield
     And    password as "secrete" in passwordfield
-    And    click on login button
+    And    click on login button LoginU
     Then   User should Stay on login Page
-    
- 
-  

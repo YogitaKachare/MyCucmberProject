@@ -25,6 +25,7 @@ WebDriver driver;
 	public void username_as_in_usernamefield(String string) {
 		WebElement username=driver.findElement(By.xpath("//input[@id='user-name']"));
 		username.sendKeys("standard_user");
+		
  	}
 
 	@When("password as {string} in passwordfield")
@@ -32,14 +33,14 @@ WebDriver driver;
 		WebElement password=driver.findElement(By.xpath("//input[@id='password']"));
 		password.sendKeys("secert_sauce");
 	}
-/*
-	@When("click on login button")
+
+	@When("click on login button LoginU")
 	public void click_button() throws InterruptedException {
 		WebElement login =driver.findElement(By.xpath("//input[@id='login-button']"));
         login.click();
-         Thread.sleep(5000);
+         
  	}
-*/
+
 	@Then("homepage should appear")
 	public void homepage_should_appear() throws InterruptedException {
 		System.out.println("Homepage should Appear");
