@@ -10,8 +10,17 @@
   
     <classes>    
    	
-      <class name="testcases.LoginTestCase"/>
+      <class name="testcases.LoginTestCase"/><!-- Common for all -->
+      <!-- One at time -->
       <class name="testcases.AddMultipleProducTestCase"/>
+      <!-- 
+      <class name="testcases.CheckOutOverViewTestCase"/>
+      <class name="testcases.CheckoutPageTestCase"/>
+      <class name="testcases.LoginTestCase"/>
+      <class name="testcases.LogOutTestCase"/>
+      <class name="testcases.ProductPageTestCase"/>
+      <class name="testcases.YourCartTestcase"/> 
+      -->
     
       
    	</classes>

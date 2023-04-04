@@ -1186,3 +1186,97 @@
 2023-04-01 00:44:07,087  INFO [main] com/:24 - setting username asstandard_user
 2023-04-01 00:44:07,531  INFO [main] com/:26 - settimg password as secret_sauce
 2023-04-01 00:44:08,483  INFO [main] com/:28 - clicking on login button
+2023-04-04 19:45:45,050  INFO [main] com/:39 - running applicationo on chrome browser
+2023-04-04 19:45:48,390  INFO [main] com/:37 - opened hoem page
+2023-04-04 19:45:49,905  INFO [main] com/:43 - setting username asstandard_user
+2023-04-04 19:45:50,047  INFO [main] com/:46 - settimg password as secret
+2023-04-04 19:45:50,670  INFO [main] com/:49 - clicking on login button
+2023-04-04 19:45:51,170  INFO [main] com/:37 - opened hoem page
+2023-04-04 19:45:51,360  INFO [main] com/:43 - setting username asstandard
+2023-04-04 19:45:51,545  INFO [main] com/:46 - settimg password as secret_sauce
+2023-04-04 19:45:51,643  INFO [main] com/:49 - clicking on login button
+2023-04-04 19:45:52,036  INFO [main] com/:37 - opened hoem page
+2023-04-04 19:45:52,201  INFO [main] com/:43 - setting username asstandard_user
+2023-04-04 19:45:52,319  INFO [main] com/:46 - settimg password as secret
+2023-04-04 19:45:52,414  INFO [main] com/:49 - clicking on login button
+2023-04-04 19:45:52,664  INFO [main] com/:37 - opened hoem page
+2023-04-04 19:45:52,869  INFO [main] com/:43 - setting username asstandard
+2023-04-04 19:45:53,030  INFO [main] com/:46 - settimg password as secret_sauce
+2023-04-04 19:45:53,122  INFO [main] com/:49 - clicking on login button
+2023-04-04 19:45:53,228  INFO [main] com/:21 - opened hoem page
+2023-04-04 19:45:53,403  INFO [main] com/:24 - setting username asstandard_user
+2023-04-04 19:45:53,551  INFO [main] com/:26 - settimg password as secret_sauce
+2023-04-04 19:45:54,000  INFO [main] com/:28 - clicking on login button
+2023-04-04 19:45:59,791 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:45:59,793 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-04 19:45:59,796 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-04 19:45:59,797 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-04 19:46:00,508 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,508 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-04 19:46:00,509 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-04 19:46:00,509 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-04 19:46:00,514 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,515 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-04 19:46:00,516 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-04 19:46:00,517 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-04 19:46:00,542 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,543 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-04 19:46:00,544 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-04 19:46:00,544 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-04 19:46:00,568 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,569 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-04 19:46:00,571 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-04 19:46:00,571 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-04 19:46:00,605 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,606 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-04 19:46:00,607 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-04 19:46:00,608 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-04 19:46:00,653 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 19:46:00,656 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 19:46:00,658 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 19:46:00,662 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-04 19:46:00,664 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,665 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-04 19:46:00,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-04 19:46:00,668 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-04 19:46:00,683 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,685 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-04 19:46:00,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-04 19:46:00,687 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-04 19:46:00,699 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,701 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-04 19:46:00,702 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-04 19:46:00,703 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-04 19:46:00,708 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,709 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-04 19:46:00,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-04 19:46:00,711 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-04 19:46:00,730 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-04 19:46:00,731 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-04 19:46:00,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-04 19:46:00,733 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Asus/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-04 19:50:24,845  INFO [main] com/:39 - running applicationo on chrome browser
+2023-04-04 19:50:30,373  INFO [main] com/:21 - opened hoem page
+2023-04-04 19:50:31,504  INFO [main] com/:24 - setting username asstandard_user
+2023-04-04 19:50:31,657  INFO [main] com/:26 - settimg password as secret_sauce
+2023-04-04 19:50:31,870  INFO [main] com/:28 - clicking on login button
+2023-04-04 19:51:46,639  INFO [main] com/:39 - running applicationo on chrome browser
+2023-04-04 19:51:50,091  INFO [main] com/:21 - opened hoem page
+2023-04-04 19:51:50,864  INFO [main] com/:24 - setting username asstandard_user
+2023-04-04 19:51:51,023  INFO [main] com/:26 - settimg password as secret_sauce
+2023-04-04 19:51:51,212  INFO [main] com/:28 - clicking on login button
+2023-04-04 19:52:49,882  INFO [main] com/:39 - running applicationo on chrome browser
+2023-04-04 19:52:54,507  INFO [main] com/:20 - opened hoem page
+2023-04-04 19:52:55,903  INFO [main] com/:23 - setting username asstandard_user
+2023-04-04 19:52:56,061  INFO [main] com/:25 - settimg password as secret_sauce
+2023-04-04 19:52:56,252  INFO [main] com/:27 - clicking on login button
+2023-04-04 19:53:56,282  INFO [main] com/:39 - running applicationo on chrome browser
+2023-04-04 19:54:00,696  INFO [main] com/:20 - opened hoem page
+2023-04-04 19:54:00,924  INFO [main] com/:23 - setting username asstandard_user
+2023-04-04 19:54:01,098  INFO [main] com/:25 - settimg password as secret_sauce
+2023-04-04 19:54:01,297  INFO [main] com/:27 - clicking on login button
+2023-04-04 19:55:19,097  INFO [main] com/:39 - running applicationo on chrome browser
+2023-04-04 19:55:24,953  INFO [main] com/:20 - opened hoem page
+2023-04-04 19:55:26,169  INFO [main] com/:23 - setting username asstandard_user
+2023-04-04 19:55:26,326  INFO [main] com/:25 - settimg password as secret_sauce
+2023-04-04 19:55:26,524  INFO [main] com/:27 - clicking on login button

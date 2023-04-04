@@ -42,7 +42,7 @@ public class LogOutTestCase extends  BaseClass{
 		
 		FinishAndLogout finLogOut = new FinishAndLogout(driver);
 		finLogOut.finish();
-		//finLogOut.logout();
+		finLogOut.logout();
 	}  
 	
 }
